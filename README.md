@@ -1,8 +1,9 @@
 # NAIXBOX
 
-A lightweight, browser-based voxel sandbox prototype built with **HTML, CSS, JavaScript, and Three.js**.
+**NAIXBOX is a lightweight browser-based voxel sandbox game developed by NAIX Studio.** Explore a procedurally generated block world, move through chunk-based terrain, and interact with the environment by breaking and placing blocks. Built with HTML, CSS, JavaScript, and Three.js, the project focuses on a simple, accessible browser experience with performance-conscious choices for lower-end devices.
 
-NAIXBOX currently runs as a single-page web application. It generates a seeded block world, renders terrain in chunks, and lets the player explore, break blocks, place blocks, and manage an inventory. The project is being developed with low-end hardware in mind.
+- 🎮 **Play NAIXBOX:** https://naixbox.oneapp.dev/
+- 🏢 **Developed by NAIX Studio:** https://naixstudio.oneapp.dev/
 
 > **Project status:** Early prototype (version 0.1.0). Some menu items and systems are still placeholders or works in progress.
 
